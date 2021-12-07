@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lLKRRd71+rVoxERgJu2SZ2ofKc8DFyq/fSbcEX1W7W8vcv/L+r2/pWHAKBtiTJmW0NXIkusT41tJv4d1kdClpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guisa\\Documents\\csharp-ex\\nivel2\\exercicio4\\exercicio4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guisa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

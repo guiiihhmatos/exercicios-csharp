@@ -1,0 +1,16 @@
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\bin\Debug\net5.0\exercicio1.exe
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\bin\Debug\net5.0\exercicio1.deps.json
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.json
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.dev.json
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\bin\Debug\net5.0\exercicio1.dll
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\bin\Debug\net5.0\ref\exercicio1.dll
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\bin\Debug\net5.0\exercicio1.pdb
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\obj\Debug\net5.0\exercicio1.csproj.AssemblyReference.cache
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\obj\Debug\net5.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfo.cs
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\obj\Debug\net5.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\obj\Debug\net5.0\exercicio1.dll
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\obj\Debug\net5.0\ref\exercicio1.dll
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\obj\Debug\net5.0\exercicio1.pdb
+C:\Users\guisa\Documents\csharp-ex\nivel6\exercicio1\obj\Debug\net5.0\exercicio1.genruntimeconfig.cache
