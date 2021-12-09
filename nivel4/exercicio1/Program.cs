@@ -6,7 +6,12 @@ namespace exercicio1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for(int i = 100; i <= 1; i--)
+            {
+                Console.WriteLine(i);
+            }
+
+            Console.ReadKey();
         }
     }
 }
