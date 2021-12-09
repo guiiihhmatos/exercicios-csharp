@@ -1,0 +1,16 @@
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\obj\Debug\net5.0\exercicio7.csproj.AssemblyReference.cache
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\obj\Debug\net5.0\exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\obj\Debug\net5.0\exercicio7.AssemblyInfoInputs.cache
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\obj\Debug\net5.0\exercicio7.AssemblyInfo.cs
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\obj\Debug\net5.0\exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\bin\Debug\net5.0\exercicio7.exe
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\bin\Debug\net5.0\exercicio7.deps.json
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\bin\Debug\net5.0\exercicio7.runtimeconfig.json
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\bin\Debug\net5.0\exercicio7.runtimeconfig.dev.json
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\bin\Debug\net5.0\exercicio7.dll
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\bin\Debug\net5.0\ref\exercicio7.dll
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\bin\Debug\net5.0\exercicio7.pdb
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\obj\Debug\net5.0\exercicio7.dll
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\obj\Debug\net5.0\ref\exercicio7.dll
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\obj\Debug\net5.0\exercicio7.pdb
+C:\Users\guisa\Documents\csharp-ex\nivel4\exercicio7\obj\Debug\net5.0\exercicio7.genruntimeconfig.cache
